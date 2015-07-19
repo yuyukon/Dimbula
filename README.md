@@ -1,2 +1,2 @@
-# Dimbula
+# Dimbula'Sample
 readme
